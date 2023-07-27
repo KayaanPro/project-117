@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(247, 181, 247);
+    font-family: 'REM', sans-serif;
+}
+
+#number_score{
+    font-size: large;
+    float: left;
+}
+
+#number_Timer{
+    font-size: large;
+    float: right;
+}
+
+p{
+    font-size: x-large;
+}
